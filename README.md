@@ -6,4 +6,4 @@ Solves the IQ tester puzzle with prolog.
 Example:
 `play([a, b, c, d, e, f, g, h, i, k, l, m, n, o], [j], []).`
 
-More info here: https://f-sci.blogspot.com/2018/07/solving-iq-tester-with-prolog.html
+More info here: https://medium.com/@fmiyca/solving-the-iq-tester-with-prolog-1e432b36b62a
